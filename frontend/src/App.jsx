@@ -164,7 +164,7 @@ export default function App() {
             <span className="font-medium text-emerald-400">AI Core Online</span>
           </div>
           <div className="text-xs text-slate-400 hidden xl:inline font-mono">
-            Hacktoberfest Track
+            System UI
           </div>
         </div>
       </header>
